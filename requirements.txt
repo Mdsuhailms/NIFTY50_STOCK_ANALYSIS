@@ -1,0 +1,8 @@
+os
+pandas 
+yaml
+sqlalchemy
+streamlit
+streamlit_option_menu
+plotly.express
+psycopg2
